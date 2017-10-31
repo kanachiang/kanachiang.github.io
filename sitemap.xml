@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://kanachaing.github.io/post/test/</loc>
+    <lastmod>2017-10-31T09:06:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kanachaing.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kanachaing.github.io/tags/kanachiang/</loc>
+    <lastmod>2017-10-31T09:06:06+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kanachaing.github.io/post/</loc>
+    <lastmod>2017-10-31T09:06:06+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kanachaing.github.io/tags/</loc>
+    <lastmod>2017-10-31T09:06:06+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kanachaing.github.io/</loc>
+    <lastmod>2017-10-31T09:06:06+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kanachaing.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2017-10-31T09:06:06+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kanachaing.github.io/tags/%E5%AD%A6%E4%B9%A0%E6%90%AD%E5%BB%BA/</loc>
+    <lastmod>2017-10-31T09:06:06+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
